@@ -22,7 +22,7 @@ namespace AntiforgeryCryptoInternalCore20Preview2
     //            return new SHA256CryptoServiceProvider();
     //        }
     //    }
-    }
+    //}
 
     public class CultureCryptoService
     {
