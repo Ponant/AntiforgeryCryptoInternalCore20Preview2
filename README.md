@@ -1,0 +1,2 @@
+# AntiforgeryCryptoInternalCore20Preview2
+CryptographyAlgorithms is not discovered
